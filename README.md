@@ -4,9 +4,9 @@ I’m currently learning Biomedical Engineering and Telecom Engineering. 📚
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=bermejo4&count_private=true&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bermejo4&hide=TeX,html,scss&layout=compact&theme=dark)
 
-<a href="https://github.com/bermejo4/github-readme-stats">
+<a href="https://github.com/bermejo4/IoT_Medical_Device">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bermejo4&repo=IoT_Medical_Device&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/bermejo4/Proyectos3">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bermejo4&repo=Proyectos3&theme=dark" />
 </a>

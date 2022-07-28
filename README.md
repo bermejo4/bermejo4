@@ -6,9 +6,7 @@ I’m currently learning Biomedical Engineering and Telecom Engineering. 📚
 
 Here is my portfolio where you can find some of my other proyects:
 
-<a href="https://bermejo4.github.io/home">
-  <img align="center" src="https://bermejo4.github.io" />
-</a>
+![The_Dark_Red_Tower](https://bermejo4.github.io/home)
 
 <a href="https://github.com/bermejo4/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bermejo4&repo=IoT_Medical_Device&theme=dark" />

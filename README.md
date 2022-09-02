@@ -9,6 +9,6 @@ My two favorite projects:
 <a href="https://github.com/bermejo4/IoT_Medical_Device">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bermejo4&repo=IoT_Medical_Device&theme=dark" />
 </a>
-<a href="https://github.com/bermejo4/Proyectos3">
+<a href="https://github.com/bermejo4/Secure_IoT_Medical_Infrastructure">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bermejo4&repo=Proyectos3&theme=dark" />
 </a>

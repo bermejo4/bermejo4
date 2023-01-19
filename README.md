@@ -12,5 +12,5 @@ My two favorite projects:
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=bermejo4&repo=IoT_Medical_Device&theme=dark" />
 </a>
 <a href="https://github.com/bermejo4/Secure_IoT_Medical_Infrastructure">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bermejo4&repo=Secure_IoT_Medical_Infrastructure&theme=dark" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=bermejo4&repo=Secure_IoT_Medical_Infrastructure&theme=dark" />
 </a>

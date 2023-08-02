@@ -3,7 +3,7 @@ I’m currently learning Biomedical Engineering and Telecom Engineering. 📚
 
 ![Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bermejo4&count_private=true&show_icons=true&theme=dark) 
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bermejo4&hide=TeX,html,scss&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bermejo4&hide=TeX,html,CSS,XSLT,scss&layout=compact&theme=dark)
 
 My two favorite projects: 
 

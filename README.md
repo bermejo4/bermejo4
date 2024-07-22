@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Bermejo,
-I’m currently learning Biomedical Engineering and Telecom Engineering. 📚 
+I’m Biomedical Engineer and Telecom Engineer. 
 
 ![Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bermejo4&count_private=true&show_icons=true&theme=dark) 
 

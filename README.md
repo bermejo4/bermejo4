@@ -22,4 +22,3 @@ My two favorite projects:
 [![GitHub Streak](https://streak-stats.demolab.com?user=bermejo4&theme=dark)](https://git.io/streak-stats)
 ![Metrics](https://github.com/bermejo4/github-metrics/blob/main/github-metrics.svg)
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />

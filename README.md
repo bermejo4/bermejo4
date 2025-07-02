@@ -1,5 +1,8 @@
 ### Hi there 👋, I'm Bermejo,
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
+
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=bermejo4&count_private=true&show_icons=true&theme=dark) 
 
@@ -15,4 +18,8 @@ My two favorite projects:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bermejo4&repo=Secure_IoT_Medical_Infrastructure&theme=dark" />
 </a>
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=bermejo4&theme=dark)](https://git.io/streak-stats)
+![Metrics](https://github.com/bermejo4/github-metrics/blob/main/github-metrics.svg)
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />

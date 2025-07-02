@@ -14,3 +14,5 @@ My two favorite projects:
 <a href="https://github.com/bermejo4/Secure_IoT_Medical_Infrastructure">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bermejo4&repo=Secure_IoT_Medical_Infrastructure&theme=dark" />
 </a>
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat)

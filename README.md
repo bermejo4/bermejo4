@@ -21,8 +21,3 @@ My two favorite projects:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bermejo4&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 ![Metrics](https://raw.githubusercontent.com/bermejo4/github-metrics/main/github-metrics.svg)
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=bermejo4&theme=dark)](https://git.io/streak-stats)
-![Metrics](https://github.com/bermejo4/github-metrics/blob/main/github-metrics.svg)
-

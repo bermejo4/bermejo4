@@ -17,7 +17,3 @@ My two favorite projects:
 <a href="https://github.com/bermejo4/Secure_IoT_Medical_Infrastructure">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bermejo4&repo=Secure_IoT_Medical_Infrastructure&theme=dark" />
 </a>
-
-
-<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bermejo4&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)-->
-![Metrics](https://raw.githubusercontent.com/bermejo4/github-metrics/main/github-metrics.svg)

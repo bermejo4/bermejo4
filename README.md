@@ -2,6 +2,8 @@
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=bermejo4&count_private=true&show_icons=true&theme=dark) 

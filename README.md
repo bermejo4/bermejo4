@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Bermejo,
 
 
-💻 Software Developer
-🚀 Passionate about building useful things with code
-🧠 Always learning new technologies
+- 💻 Software Developer
+- 🚀 Passionate about building useful things with code
+- 🧠 Always learning new technologies
 
 ---
 

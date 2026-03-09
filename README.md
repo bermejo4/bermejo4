@@ -45,15 +45,15 @@
 
 # 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bermejo_4\&show_icons=true\&theme=tokyonight\&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bermejo4\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bermejo_4\&layout=compact\&theme=tokyonight\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bermejo4\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 ---
 
 # 📈 Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bermejo_4\&theme=tokyo-night\&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bermejo4\&theme=tokyo-night\&hide_border=true)
 
 ---
 
@@ -76,7 +76,7 @@
 
 # 🌍 Connect
 
-* GitHub: https://github.com/bermejo_4
+* GitHub: https://github.com/bermejo4
 
 ---
 
